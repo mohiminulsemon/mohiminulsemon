@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m Mohiminul Islam Semon
 - 👀 I’m interested in Software Engineering and related term
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently graduated in CSE
 - 💞️ I’m looking to collaborate on projects based on my skills
 - 📫 Reach me mohiminulsemon80@gmail.com
 
