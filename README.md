@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/git_cover.gif"  />
+  <img src="[git_cover](https://github.com/mohiminulsemon/mohiminulsemon/blob/main/images/git_cover.gif)"  />
 </div>
 
 ###
