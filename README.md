@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://github.com/mohiminulsemon/mohiminulsemon/blob/main/images/pic5.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/mohiminulsemon/mohiminulsemon/blob/main/images/pic5.gif">
 
 - 👋 Hi, I’m Mohiminul Islam Semon
 - 👀 I’m interested in Software Engineering and related term
